@@ -1,0 +1,22 @@
+Description
+Lab Overview
+Terraform is a tool for declaring and managing infrastructure as code. With Terraform you can write declarative configuration files, view execution plans, and apply plans to realize the infrastructure declared in the configuration files. An important advantage of Terraform is that is supports over 100 resource providers including the major public cloud providers, such as Amazon Web Services, Microsoft Azure, and Google Cloud Platform. In this Lab, you will learn the basics of working with Terraform and create an Amazon Virtual Private Cloud (VPC) with Terraform.
+
+Lab Objectives
+Upon completion of this Lab you will be able to:
+
+Install Terraform on Linux
+Configure Terraform providers
+Create AWS resources with Terraform
+Lab Prerequisites
+You should be familiar with:
+
+Working at the command-line in Linux
+Amazon VPC basics
+Lab Environment
+Before completing the Lab instructions, the environment will look as follows:
+<blobid0-0a220915-6a0f-4acb-819c-c8ad91be8561.png>
+
+After completing the Lab instructions, the environment should look similar to:
+<blobid2-4dccdbaa-aecc-41e4-9bce-ccb0e960d910.png>
+ 
